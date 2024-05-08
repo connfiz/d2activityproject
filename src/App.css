@@ -1,0 +1,121 @@
+  html {
+
+    background-color: #302d2d;
+    color: #f2f2f2;
+
+
+  }
+  .logo {
+    float: left;
+    width: 410px;
+    height: auto;
+    padding: auto;
+    align-items: center;
+      align-content: center;
+    padding-top: 5px;
+    padding-left: 10px;
+  }
+
+  .dungeon-list {
+    background-color: #302d2d;
+    color: #ff00b3;
+
+  }
+
+
+  .row {
+    padding: 100px;
+    flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+  }
+
+  col-md-3 {
+    color: #ffffff;
+  }
+
+
+  /* styling navlist */
+  #navlist {
+    background-color: #000000;
+  
+
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    /* Add this property */
+  }
+
+
+  #navlist a {
+    flex-direction: row;
+    /* float: left; */
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .navlist-right {
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    /* Add this property */
+  }
+
+  /* hover effect of navlist anchor element */
+  #navlist a:hover {
+    background-color: #000000;
+    color: #ff00b3;
+    height: auto;
+
+  }
+
+  /* styling search bar */
+  .search-bar {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    
+    /* Add this property */
+  }
+
+  .search-bar input {
+    width: 500px;
+    padding: 10px;
+    border: 10px solid #302d2d;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+  }
+
+  .search-bar button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #ff00b3;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  html {
+
+    background-color: #302d2d;
+    color: #f2f2f2;
+
+
+  }
