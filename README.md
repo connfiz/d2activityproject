@@ -28,6 +28,7 @@ https://localhost:5173 by default
 - React
 - typescript
 - Axios
+- vite
 
 ## Environment Variables
 
