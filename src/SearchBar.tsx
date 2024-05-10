@@ -265,8 +265,8 @@ console.log(userData);
 
 return (
                     <div className='searchbarbox'>
-                     <h2>welcome Guardian!</h2>
-                     <p>use the search bar below to view your recent dungeon and raid activitys</p>
+                     <h2>Welcome Guardian!</h2>
+                     <p>Use the search bar below to view your recent dungeon and raid activitys</p>
         <b>Please enter you in game name like "Guardian123" and not with the bungie numbers lke "Guardian123#1234"</b>
                         <br />
                         <input
